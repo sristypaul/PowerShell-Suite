@@ -1,3 +1,7 @@
+Param(
+[string]$greeter,
+[string]$trigger
+)
 function Calculate-Hash {
 <#
 .SYNOPSIS
